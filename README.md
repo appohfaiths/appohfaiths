@@ -14,9 +14,9 @@ I love the entire process of developing creative websites.
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/faithappoh/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://twitter.com/faithappoh">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
-<a href="https://www.youtube.com/channel/UCHrXQJsGrqELQjyRPB6O7ng">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/faithappoh/" target="_blank" rel="noreferrer noopener">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://twitter.com/faithappoh" target="_blank" rel="noreferrer noopener">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+<a href="https://www.youtube.com/channel/UCHrXQJsGrqELQjyRPB6O7ng" target="_blank" rel="noreferrer noopener">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
 </br>
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
