@@ -7,10 +7,10 @@ Hi there, I'm <a href="https://fsappoh-portfolio-website.vercel.app/" target="_b
 </h1>
 
 <h4 align="center">
-I'm a Front-End Web Developer 💻, Content Creator 📸, Video Editor and Music Producer !
+I'm a Front-End Web Developer, Game Developer 💻, Content Creator 📸, Video Editor and Music Producer !
 </h4>
 
-I love the entire process of developing creative websites.
+I love the entire process of developing creative websites and building software.
 
 ### 🤝 Connect with me:
 
@@ -24,10 +24,15 @@ I love the entire process of developing creative websites.
 ## 🔭 I'm currently working on
 
 - A blog project with React and Next js
+- An administrative portal with React and Next js
+- A 2D game in Unity
+- A VR environment in Unity
 
 </br>
 
 ## Technical Skills
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -50,6 +55,12 @@ I love the entire process of developing creative websites.
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+</br>
+
+## Game Development, Virtual Reality, Augmented Reality
+
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 </br>
 
