@@ -7,7 +7,7 @@ Hi there, I'm <a href="https://fsappoh-portfolio-website.vercel.app/" target="_b
 </h1>
 
 <h4 align="center">
-I'm a Front-End Web Developer, Game Developer 💻, Content Creator 📸, Video Editor and Music Producer !
+I'm a Front-End Web Developer, Content Creator 💻, Video Editor and Music Producer 📸!
 </h4>
 
 I love the entire process of developing creative websites and building software.
