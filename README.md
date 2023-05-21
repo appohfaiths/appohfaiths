@@ -7,10 +7,10 @@ Hi there, I'm <a href="https://fsappoh-portfolio-website.vercel.app/" target="_b
 </h1>
 
 <h4 align="center">
-I'm a Front-End Web Developer, Content Creator 💻, Video Editor and Music Producer 📸!
+I'm a Front-End Developer 💻, and Mobile App Developer, and Webmaster
 </h4>
 
-I love the entire process of developing creative websites and building software.
+I love the entire process of developing creative websites, mobile apps and building software.
 
 ### 🤝 Connect with me:
 
@@ -25,8 +25,7 @@ I love the entire process of developing creative websites and building software.
 
 - A blog project with React and Next js
 - An administrative portal with React and Next js
-- A 2D game in Unity
-- A VR environment in Unity
+- A food ingredient search mobile app
 
 </br>
 
@@ -40,25 +39,28 @@ I love the entire process of developing creative websites and building software.
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 </br>
 
-## Saas
+## Saas and Hosting
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 </br>
 
-## Game Development, Virtual Reality, Augmented Reality
+## Virtual Reality
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
