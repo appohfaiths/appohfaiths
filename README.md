@@ -7,7 +7,7 @@ Hi there, I'm <a href="https://fsappoh-portfolio-website.vercel.app/" target="_b
 </h1>
 
 <h4 align="center">
-I'm a Front-End Developer 💻, and Mobile App Developer, and Webmaster
+I'm a Front-End Developer 💻, Mobile App Developer, and Webmaster
 </h4>
 
 I love the entire process of developing creative websites, mobile apps and building software.
