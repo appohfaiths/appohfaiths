@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://fsappoh-portfolio-website.vercel.app/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/57360944/211044885-0233cb92-9e9d-477f-8cc2-58ef4f7873cd.png" alt="my banner"></a>
+  <a href="https://kodjocode.vercel.app/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/57360944/211044885-0233cb92-9e9d-477f-8cc2-58ef4f7873cd.png" alt="my banner"></a>
 </p>
 
 <h1 align="center">
@@ -10,7 +10,7 @@ Hi there, I'm <a href="https://fsappoh-portfolio-website.vercel.app/" target="_b
 I'm a Front-End Developer 💻, Mobile App Developer, and Webmaster
 </h4>
 
-I love the entire process of developing creative websites, mobile apps and building software.
+I love the entire process of developing creative web apps, mobile apps and building software.
 
 ### 🤝 Connect with me:
 
@@ -23,9 +23,8 @@ I love the entire process of developing creative websites, mobile apps and build
 
 ## 🔭 I'm currently working on
 
-- A blog project with React and Next js
-- An administrative portal with React and Next js
-- A food ingredient search mobile app
+- [Portions and Passion](https://www.portionsandpassion.com/)
+- Something big!
 
 </br>
 
