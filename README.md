@@ -3,14 +3,14 @@
 </p>
 
 <h1 align="center">
-Hi there, I'm <a href="https://fsappoh-portfolio-website.vercel.app/" target="_blank" rel="noreferrer">Faith</a> 👋
+Hi there, I'm <a href="https://kodjocode.vercel.app/" target="_blank" rel="noreferrer">Faith</a> 👋
 </h1>
 
 <h4 align="center">
-I'm a Front-End Developer 💻, Mobile App Developer, and Webmaster
+I'm a Full Stack Web and Mobile Software Engineer 💻
 </h4>
 
-I love the entire process of developing creative web apps, mobile apps and building software.
+I love the entire process of developing creative digital applications to help people.
 
 ### 🤝 Connect with me:
 
@@ -25,6 +25,10 @@ I love the entire process of developing creative web apps, mobile apps and build
 
 - [Portions and Passion](https://www.portionsandpassion.com/)
 - Something big!
+
+## 🌱 I’m currently learning ...
+
+- Python and Django
 
 </br>
 
