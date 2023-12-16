@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://kodjocode.vercel.app/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/57360944/211044885-0233cb92-9e9d-477f-8cc2-58ef4f7873cd.png" alt="my banner"></a>
+  <a href="https://kodjocode.vercel.app/" target="_blank" rel="noreferrer"><img src="./images/github-header-image.png" alt="my banner"></a>
 </p>
 
 <h1 align="center">
