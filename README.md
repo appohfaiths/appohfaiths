@@ -7,7 +7,7 @@ Hi there, I'm <a href="https://kodjocode.vercel.app/" target="_blank" rel="noref
 </h1>
 
 <h4 align="center">
-I'm Software Engineer specialising in Web frontend 💻
+I'm a software engineer specialising in web frontend 💻
 </h4>
 
 I love the entire process of developing creative digital solutions to help people.
