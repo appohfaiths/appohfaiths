@@ -7,10 +7,10 @@ Hi there, I'm <a href="https://kodjocode.vercel.app/" target="_blank" rel="noref
 </h1>
 
 <h4 align="center">
-I'm a software engineer with experience in web and mobile frontend and backend
+I'm a software engineer with experience in frontend and backend engineering
 </h4>
 
-I love the entire process of developing creative digital solutions to help people.
+I love the entire process of developing creative digital solutions.
 
 ### 🤝 Connect with me
 
@@ -23,8 +23,8 @@ I love the entire process of developing creative digital solutions to help peopl
 
 ## 🔭 I'm currently working on
 
-- [Portions and Passion](https://www.portionsandpassion.com/)
-- Something big!
+- [MusicByNumber](https://www.musicbynumbers.app/)
+- [ChumiAI](https://chumiai.app/)
 
 
 ## Read my blog
@@ -42,10 +42,8 @@ I love the entire process of developing creative digital solutions to help peopl
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -66,7 +64,6 @@ I love the entire process of developing creative digital solutions to help peopl
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 </br>
 
