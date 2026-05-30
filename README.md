@@ -102,7 +102,7 @@ Music education platform designed to simplify music learning through structured 
 
 📝 Blog: https://kodjocode.hashnode.dev
 
-🎥 YouTube: [https://www.youtube.com/channel/UCHrXQJsGrqELQjyRPB6O7ng](https://www.youtube.com/@faithappoh)
+🎥 YouTube: https://www.youtube.com/@faithappoh
 
 ---
 
